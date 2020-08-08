@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 
 - 🔭 I’m currently working on ... HTML/CSS
 - 🌱 I’m currently learning ... Vue.js
@@ -10,4 +9,3 @@
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ... He/His
 - ⚡ Fun fact: ... I am 44 ))
--->
