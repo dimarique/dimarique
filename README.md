@@ -7,6 +7,7 @@
 - 🤔 I’m looking for help with ... Vue, React
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Upwork profile](https://www.upwork.com/freelancers/~0173af492a5f80110a)
-- ⚡ Fun fact: ... I am 44 ))
-<br>
+- ⚡ Fun fact: ... I am 44 ))  
+&nbsp;
+
 ![Codewars profile](https://www.codewars.com/users/dimarique/badges/small)
