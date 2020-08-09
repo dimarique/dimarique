@@ -9,4 +9,4 @@
 - 📫 How to reach me: ... [Upwork profile](https://www.upwork.com/freelancers/~0173af492a5f80110a)
 - ⚡ Fun fact: ... I am 44 ))
 <br>
-[![Codewars profile](https://www.codewars.com/users/dimarique/badges/small)](https://www.codewars.com/users/dimarique)
+![Codewars profile](https://www.codewars.com/users/dimarique/badges/small)
