@@ -1,13 +1,27 @@
-### Hi there 👋
 
 
-- 🔭 I’m currently working on ... Upwork
-- 🌱 I’m currently learning ... React.js
-- 👯 I’m looking to collaborate on ... React.js
-- 🤔 I’m looking for help with ... React.js
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Upwork profile](https://www.upwork.com/freelancers/~0173af492a5f80110a)
-- ⚡ Fun fact: ... I am 49 ))  
-&nbsp;
+# Hi there 👋
+
+I'm **Dmytro Kuzmenko**, a frontend developer focused on building clean and functional web interfaces.
+
+## 💻 Tech Stack
+
+**JavaScript**, **TypeScript**, **React**, **HTML**, **CSS**
+
+## 🌱 Currently
+
+* Learning: **React.js**, **TypeScript**
+* Looking for: **new opportunities and interesting projects**
+* Open to collaborate on: **React projects**
+
+## 💬 Contact
+
+* [LinkedIn profile](https://www.linkedin.com/in/dimarique)
+
+## ⚡ Fun fact
+
+Started coding after 40 — and now can’t imagine a day without it.
+
+ 
 
 ![Codewars profile](https://www.codewars.com/users/dimarique/badges/small)
